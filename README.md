@@ -1,2 +1,2 @@
-# QR game
+# game
 first qr game tryout
